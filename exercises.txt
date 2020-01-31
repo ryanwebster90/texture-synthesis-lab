@@ -1,0 +1,11 @@
+Place printed output under each exercise. Save images with directory structure:
+
+You will find the exercises as comments in exercise_1.py, exercise_2.py
+
+Please include a short analysis of each exercise in a PDF file, then together
+with the code and relevant images zip and email me at:
+
+ryan.webster@unicaen.fr
+
+
+Have fun!
