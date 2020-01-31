@@ -63,14 +63,14 @@ torchvision.utils.save_image(y0,im_folder + 'input_image.jpg',normalize=True)
 
 
 # Exercise 2.5: part 1: replaces imsizes0, imsizes1 with resolutions imsize0/2^(N_scales-1)... imsize0/2^(0)
-imsizes0 = [imsize0/2,imsize0]
-imsizes1 = [imsize1/2,imsize1]
+imsizes0 = [imsize0]
+imsizes1 = [imsize1]
 
 for s,cur_imsize0 in enumerate(imsizes0):
     
     cur_imsize1 = imsizes1[s]
 
-    # Replace this scale layer with nn.AdaptiveAvgPool2d and the correct resolution
+    # Exercise 2.2: Replace this scale layer with nn.AdaptiveAvgPool2d and the correct resolution (using imsizes)
     scale_layer = lambda x: x
     
     y = scale_layer(y0.detach())
