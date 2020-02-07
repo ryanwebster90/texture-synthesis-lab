@@ -30,7 +30,10 @@ Synthesize raddish and stones images with the three techniques you've learned:
 4.2: Analyze the Synthesis algorithms in terms of visual quality, loss and computation time.
 What are the advantages and disadvantages of each?
 
-4.3: Compute the position maps (see slides) of each image using the algorithm from (1). Provide a small analysis.
+For your report I would like:
+The code, your answers for each exercise in a text file (2.3-2.5, 2.6, 2.7, 4.1-4.2) and finally the synthesized images from Exercise 4. 
+
+*4.3: Compute the position maps (see slides) of each image using the algorithm from (1). Provide a small analysis.
 
 *Exercise 5 (if time, extra credxit):
 
