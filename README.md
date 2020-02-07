@@ -31,7 +31,8 @@ Synthesize raddish and stones images with the three techniques you've learned:
 What are the advantages and disadvantages of each?
 
 For your report I would like:
-The code, your answers for each exercise in a text file (2.3-2.5, 2.6, 2.7, 4.1-4.2) and finally the synthesized images from Exercise 4. 
+
+Synthesize a small report. Include your answers for each exercise (2.3-2.7), 4.1-4.2. Finally include a short description of each algorithm as well as the synthesized images from each (Including Patch based algorithm). 
 
 *4.3: Compute the position maps (see slides) of each image using the algorithm from (1). Provide a small analysis.
 
