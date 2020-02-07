@@ -34,6 +34,8 @@ For your report I would like:
 
 Synthesize a small report. Include your answers for each exercise (2.3-2.7), 4.1-4.2. Finally include a short description of each algorithm as well as the synthesized images from each (Including Patch based algorithm). 
 
+Due Wednesday Feb. 19th!
+
 *4.3: Compute the position maps (see slides) of each image using the algorithm from (1). Provide a small analysis.
 
 *Exercise 5 (if time, extra credxit):
