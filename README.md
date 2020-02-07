@@ -18,6 +18,32 @@ Why does y_feats have the same dimension regardless of what scale we use?
 Synthesize an image with different numbers of scales, what is the effect of having more/ less scales?
 
 
+Exercise 4 - Texture analysis:
+
+Synthesize raddish and stones images with the three techniques you've learned:
+(1) Patch based (with julien)
+(2) Neural synthesis with VGG gram matrices
+(3) Feedforward synthesis
+
+4.1: Compute the VGG Gram matrix for each.
+
+4.2: Analyze the Synthesis algorithms in terms of visual quality, loss and computation time.
+What are the advantages and disadvantages of each?
+
+4.3: Compute the position maps (see slides) of each image using the algorithm from (1). Provide a small analysis.
+
+*Exercise 5 (if time, extra credxit):
+
+Fork the github repo:
+https://github.com/leongatys/PytorchNeuralStyleTransfer
+
+*5.1: Run the style transfer on an content / style image.
+
+*5.2: Analyze the loss, what is the difference between the content loss and style loss?
+
+*5.3: Why is the Gram Matrix loss more suitable for textures?
+
+
 References:
 Texture Synthesis with Convolutional Neural Networks:
 https://arxiv.org/abs/1505.07376
